@@ -1,0 +1,5 @@
+**/.secret
+.venv
+**/*pycache*/
+**/*.pyc
+**/*.log
